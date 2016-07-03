@@ -73,6 +73,7 @@ Got other questions on security? Pitch your suggestions via Twitter to one of th
 ## Helpful people to follow
 
 * Micah Lee [personal blog](https://micahflee.com/) | [twitter](https://twitter.com/micahflee)
+* Steve Gibson [Security Now podcast](https://twit.tv/shows/security-now) | [twitter](https://twitter.com/SGgrc)
 
 ## Contributors
 
