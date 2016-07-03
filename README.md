@@ -35,7 +35,11 @@ Use a password manager to store your passwords. This will help you establish a r
 
 ## How to come up with a password
 
-Almost every password you ever set should be randomly generated 
+Almost every password you ever set should be randomly generated using a password manager. However, there may be some passwords that you need to generate on your own, such as the one you use to authenticate to your password manager. 
+
+You're probably really bad at coming up with good passwords, because you're a human. We have terrible intuition about what constitutes true randomness, and have a strong bias for coming up with strings that are easy to memorize rather than easy to break.
+
+One strong option is to generate a "random passphrase." Choose 6-8 truly random words and memorize them. Although this may seem like a surprisingly small amount of information, there are so many possible words that this actually represents a lot of randomness, and will be very difficult to brute force. [Here is one online passphrase generator](https://www.fourmilab.ch/javascrypt/pass_phrase.html). For bonus points, save that page to your desktop, and open the local copy of the page in your web browser to prevent the owner of the website from snooping on your generated passwords.
 
 ## How to not get your accounts hacked
 
