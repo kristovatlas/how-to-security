@@ -3,7 +3,15 @@ Basic advice on how to do computer things securely for non-experts
 
 # Table of Contents
 
-1. [How to securely text and call your friends](#How-to-securely-text-and-call-your-friends)
+1. [How to securely text and call your friends](#how-to-securely-text-and-call-your-friends)
+2. [How to securely use free/open Wi-Fi](#how-to-securely-use-freeopen-wi-fi)
+3. [How to use Tor](#how-to-use-tor)
+4. [How to choose a search engine](#how-to-choose-a-search-engine)
+5. [How to save your passwords](#how-to-save-your-passwords)
+6. [How to come up with a password](#how-to-come-up-with-a-password)
+7. [How to not get your accounts hacked](#how-to-not-get-your-accounts-hacked)
+8. [More resources](#more-resources)
+9. [Helpful people to follow](#helpful-people-to-follow)
 
 ## How to securely text and call your friends
 
