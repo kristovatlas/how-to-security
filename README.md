@@ -1,6 +1,10 @@
 # how-to-security
 Basic advice on how to do computer things securely for non-experts
 
+# Table of Contents
+
+1. [How to securely text and call your friends](#How-to-securely-text-and-call-your-friends)
+
 ## How to securely text and call your friends
 
 Install Signal. [Download for iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) | [Download for Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en)
