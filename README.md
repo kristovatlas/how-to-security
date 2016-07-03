@@ -37,6 +37,8 @@ There are two pieces of software to get you on Tor:
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en): You can install this on your existing operating system with minimal fuss.
 * [Tails](https://tails.boum.org/): A hardened operating system that tunnels all traffic through Tor for all applications, and which stores no data permanently on your hard drive.
 
+As a small number of Tor users have been [legally targeted](http://themerkle.com/fbi-can-obtain-a-warrant-if-you-run-tor-come-december/), consider connecting to a VPN before connecting to Tor so your Tor connection is less obvious to those snooping on the connection between you and your ISP. Keep in mind, however, that any website who knows your offline identity will also have a record of you connecting via Tor.
+
 ## How to choose a search engine
 
 Google's search quality is far superior to every other search engine, but searching with them is also a privacy disaster. Consider switching to [another search engine](https://www.privacytools.io/#search), such as DuckDuckGo.
