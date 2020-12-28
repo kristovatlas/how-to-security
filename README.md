@@ -45,7 +45,7 @@ Google's search quality is far superior to every other search engine, but search
 
 ## How to save your passwords
 
-Use a password manager to store your passwords. This will help you establish a random, long, and unique password for every single service and account you use. For beginners, I recommend [LastPass](https://lastpass.com/) -- it's simple, secure, and avaialble on both desktop and mobile devices.
+Use a password manager to store your passwords. This will help you establish a random, long, and unique password for every single service and account you use. For beginners, I recommend [LastPass](https://lastpass.com/) -- it's simple, secure, and avaiable on both desktop and mobile devices.
 
 ## How to come up with a password
 
