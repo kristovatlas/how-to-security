@@ -74,6 +74,7 @@ Got other questions on security? Pitch your suggestions via Twitter to one of th
 
 * Micah Lee [personal blog](https://micahflee.com/) | [twitter](https://twitter.com/micahflee)
 * Steve Gibson [Security Now podcast](https://twit.tv/shows/security-now) | [twitter](https://twitter.com/SGgrc)
+* Jameson Lopp [personal blog](https://www.lopp.net/) | [twitter](https://twitter.com/lopp)
 
 ## Contributors
 
