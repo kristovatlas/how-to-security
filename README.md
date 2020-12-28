@@ -49,7 +49,7 @@ Use a password manager to store your passwords. This will help you establish a r
 
 ## How to come up with a password
 
-Almost every password you ever set should be randomly generated using a password manager. However, there may be some passwords that you need to generate on your own, such as the one you use to authenticate to your password manager. 
+Almost every password you ever set should be randomly generated using a password manager. However, there may be some passwords that you need to generate on your own, such as the one you use to authenticate to your password manager.
 
 You're probably really bad at coming up with good passwords, because you're a human. We have terrible intuition about what constitutes true randomness, and have a strong bias for coming up with strings that are easy to memorize rather than easy to break.
 
@@ -69,6 +69,7 @@ Got other questions on security? Pitch your suggestions via Twitter to one of th
 ## More resources
 
 * [https://www.privacytools.io/#search](https://www.privacytools.io/#search)
+* [Home Security checklist](home-security.md)
 
 ## Helpful people to follow
 
