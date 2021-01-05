@@ -70,6 +70,7 @@ Got other questions on security? Pitch your suggestions via Twitter to one of th
 
 * [https://www.privacytools.io/#search](https://www.privacytools.io/#search)
 * [Home Security checklist](home-security.md)
+* [Remote Worker Physical Security Checklist](remote-worker.md)
 
 ## Helpful people to follow
 
